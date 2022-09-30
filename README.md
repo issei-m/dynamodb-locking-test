@@ -1,5 +1,7 @@
 # dynamodb-locking-test
 
+https://engineering.mobalab.net/2022/09/30/dynamodb-locking/
+
 ```
 docker build -t dynamodb-locking .
 docker run -it --rm dynamodb-locking 
